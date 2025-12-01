@@ -19,8 +19,8 @@ I'm a Computer Science graduate from Cairo University, passionate about **data a
 
 ## Connect with Me
 
-* Email: [farahdimshawy@gmail.com](mailto:farah.a.dimshawy@gmail.com)
-* LinkedIn: [linkedin.com/in/farah-ali](https://linkedin.com/in/farahdimshawy)
+* Email: [farah.a.dimshawy@gmail.com](mailto:farah.a.dimshawy@gmail.com)
+* LinkedIn: [linkedin.com/in/farahdimshawy](https://linkedin.com/in/farahdimshawy)
 
 ---
 
