@@ -1,13 +1,13 @@
-# Hi, I'm Farah Ali
+# It's Farah <3
 
-I'm a Computer Science graduate from Cairo University, passionate about **data analysis, machine learning, and software development**. I enjoy working on projects that solve real-world problems and improve processes.
+I'm an AI student @ Cairo University, passionate about **NLP and AI engineering**. I enjoy working on fun projects.
 
 ## About Me
 
-* 🎓 Education: B.Sc. in Artificial Intelligence, Cairo University
-* 💻 Skills: LangChain, sklearn, Python, SQL, Power BI, Excel, Machine Learning, Data Analysis, OOP, SOLID principles
-* 🌱 Currently learning: Russian, Agentic AI
-* 📂 Interests: NLP, AI, Recommendation Systems, Data-Driven Solutions
+* ⋆˚꩜｡ **Education:** B.Sc. in Artificial Intelligence, Cairo University
+* ⋆˚꩜｡ **Skills:** LangChain, PyTorch, sklearn, Python, Deep Learning, Machine Learning, Data Analysis, OOP, SOLID principles, SQL, Power BI, Excel, 
+* ⋆˚꩜｡ **Currently learning:** Russian, Agentic AI
+* ⋆˚꩜｡ **Interests:** NLP, RAG Systems, Agentic AI, Recommendation Systems, Data-Driven Solutions
 
 ## Key Projects
 
@@ -23,8 +23,7 @@ I'm a Computer Science graduate from Cairo University, passionate about **data a
 * LinkedIn: [linkedin.com/in/farahdimshawy](https://linkedin.com/in/farahdimshawy)
 
 ---
-
-I am always looking to collaborate on **data-driven projects** and **innovative software solutions**. Feel free to explore my repositories!
+Feel free to explore my repositories!
 
 
 <!---
