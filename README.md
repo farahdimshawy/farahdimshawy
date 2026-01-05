@@ -13,6 +13,7 @@ I'm an AI student @ Cairo University, passionate about **NLP and AI engineering*
 
 * **[AI Recruitment Agent (RAG)](https://github.com/farahdimshawy/RecruitmentAgent)** – A Retrieval-Augmented Generation system for analyzing resumes and matching candidates to roles.
 * **[Thought Daughter (RAG Web-Based Chatbot)](https://github.com/farahdimshawy/ThoughtDaughter)** – Web-based chatbot using RAG to provide interactive AI-driven responses.
+*  **[Resume Evaluator](https://github.com/farahdimshawy/ResumeEvaluator)** - LLM-driven resume evaluation system that compares resumes to job descriptions, generates fit scores, and highlights missing or weak skills using the Gemini API.
 * **[Movie Recommendation System](https://github.com/farahdimshawy/MovieRecommendation)** – Collaborative filtering and content-based recommendation engine.
 * **[Machine Learning Simulator](https://github.com/farahdimshawy/MachineLangSim)** – Simulates learning algorithms using OOP and SOLID principles.
 
